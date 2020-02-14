@@ -4,7 +4,6 @@ import 'filepond/dist/filepond.min.css';
 import { MDBInput} from "mdbreact";
 import './dashboard.css';
 import db from "./Db.png";
-import db1 from "./db1.png"
 import Flippy, { FrontSide, BackSide } from 'react-flippy';
 
 const FlippyOnClick = ({ flipDirection = 'vertical' }) => (
